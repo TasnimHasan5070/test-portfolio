@@ -126,3 +126,54 @@ button{
 .content3 h1{
     margin-top: 30px;
  }
+.pic{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap:30px;
+}
+.portfolio{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.profile h1 {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.pic{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 80px; 
+}
+.pic1 img{
+    height: 280px;
+    width: 411px; 
+    margin-left: 20px;  
+}
+.pic1 h3{
+    margin-left: 20px;   
+}
+.pic2 img{
+    height: 280px;
+    width: 411px;  
+}
+.pic3 img{
+    height: 280px;
+    width: 411px;   
+}
+
+.w1 img{
+    width: 155px;
+    height: 25px;
+}
+.footer-last{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 30px;
+}
+.footer{
+    color: white;
+    background-color: black;
+    margin-left: 60px;
+    margin-top: 50px;
+    padding: 70px;
+}
