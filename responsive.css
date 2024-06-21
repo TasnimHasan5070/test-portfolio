@@ -1,0 +1,32 @@
+@media screen and (max-width:590px) {
+    .header{
+        gap: 180px;
+    }
+    .photo{
+        margin-left: 300px;
+    }
+    .heading{
+        margin-left: 300px;
+    }
+    .buttons{
+        margin-left: 250px;
+    }
+    .left-side{
+        margin-left: 100px;
+    }
+    .education{
+        margin-left: 100px;
+    }
+    .middle-part{
+        margin-left: 100px;
+    }
+    .pic{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .footer-last{
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 60px;
+    }
+}
