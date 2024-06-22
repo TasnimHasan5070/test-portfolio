@@ -169,7 +169,7 @@ button{
     display: grid;
     grid-template-columns: auto auto auto auto;
     margin-top: 30px;
-    gap:60px;
+    gap:200px;
 }
 .footer{
     color: white;
